@@ -1,0 +1,7 @@
+.mwe-math-fallback-image-inline {
+    filter: invert(1) !important;
+}
+
+img {
+    background-color: rgb(196, 196, 196) !important;
+}

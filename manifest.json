@@ -1,0 +1,12 @@
+  {
+    "name": "Wiki Darkmode Fix",
+    "version": "1.0",
+    "description": "Invert wikipedia math notation so it's readable in Chrome dark mode",
+    "content_scripts": [
+        {
+            "matches": ["https://*.wikipedia.org/*"],
+            "css": ["style.css"]
+        }
+    ],
+    "manifest_version": 2
+  }

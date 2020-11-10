@@ -2,9 +2,9 @@
 Chrome extension that fixes unreadable math notation on wikipedia when chrome darkmode flag is enabled
 ## Example
 Turns this:
-![before wikiInvert](https://ibb.co/XjhnBgM)
+![before wikiInvert](https://i.ibb.co/TYVQXSd/b4.jpg)
 ...into this:
-![after wikiInvert](https://ibb.co/Km8j3L7)
+![after wikiInvert](https://i.ibb.co/M9JD3Gp/after.jpg)
 ## Installation
 1. Download files
 2. Go to chrome://extensions
